@@ -66,5 +66,38 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td><em>i</em> de <em>si</em></td>
 </tr>
 
+<tr>
+<td>[ɔ]</td>
+<td><strong>i</strong></td>
+<td>oko</td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/oko.ogg"></audio>
+</td>
+<td><em>o</em> de <em>porte ou le o ouvert du sud de la France</em></td>
+</tr>
+
+<tr>
+<td>[u]</td>
+<td><strong>ó, u</strong></td>
+<td>mówić, ku</td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/mówić.ogg"></audio>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/ku.ogg"></audio>
+</td>
+<td><em>ou</em> de <em>vous</em></td>
+</tr>
+
+<tr>
+<td>[ɨ]</td>
+<td><strong>y</strong></td>
+<td>syn</td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/syn.ogg"></audio>
+</td>
+<td><em>Le y polonais est comme le e muet français, mais prononcé clairement dans "petit", se prononce plus en arrière que le i, tout en restant ouvert.</em></td>
+</tr>
+
+
+
 </tbody>
 </table>
