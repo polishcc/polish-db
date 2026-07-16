@@ -1,0 +1,19 @@
+table.pronunciation {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.pronunciation th,
+table.pronunciation td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+table.pronunciation th {
+    text-align: left;
+}
+
+table.pronunciation audio {
+    width: 140px;
+}

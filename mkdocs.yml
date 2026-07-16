@@ -1,7 +1,10 @@
 site_name: Polish Language Database
+site_url: https://polishcc.github.io/polish-db/
+site_dir: site
+use_directory_urls: true
 
 theme:
   name: material
 
 extra_css:
-  - stylesheets/extra.css
+  - stylesheets/extra.csss

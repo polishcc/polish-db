@@ -40,7 +40,8 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td><strong>a</strong></td>
 <td>tak</td>
 <td>
-<audio controls src="/assets/audio/sounds/tak.ogg"></audio>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/tak.ogg"></audio>
+
 </td>
 <td><em>a</em> de <em>chat</em></td>
 </tr>
@@ -50,8 +51,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td><strong>e</strong></td>
 <td>krew</td>
 <td>
-<audio controls src="/assets/audio/sounds/krew.ogg">
-</audio>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/krew.ogg"></audio>
 </td>
 <td>comme <em>è</em> dans <em>mère</em></td>
 </tr>
@@ -61,8 +61,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td><strong>i</strong></td>
 <td>i</td>
 <td>
-<audio controls src="/assets/audio/sounds/i.ogg">
-</audio>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/i.ogg"></audio>
 </td>
 <td><em>i</em> de <em>si</em></td>
 </tr>
