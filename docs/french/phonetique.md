@@ -81,7 +81,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td><strong>ó, u</strong></td>
 <td>mówić, ku</td>
 <td>
-<audio controls preload="none" src="/polish-db/assets/audio/sounds/mówić.ogg"></audio>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/mowic.ogg"></audio>
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/ku.ogg"></audio>
 </td>
 <td><em>ou</em> de <em>vous</em></td>
