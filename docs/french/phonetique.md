@@ -1,4 +1,4 @@
-# Phonétique polonaise NEW
+# Phonétique polonaise
 
 ## L'alphabet polonais
 
@@ -15,6 +15,23 @@ Outre les lettres simples, le polonais possède également plusieurs **digrammes
 **ch, cz, dz, dź, dż, rz, sz**
 
 Les lettres **Q**, **V** et **X** ne font pas partie de l'alphabet polonais. Elles n'apparaissent que dans certaines abréviations (par exemple **V** pour *volt*, en polonais **wolt**) ou dans quelques mots d'origine étrangère (par exemple **taxi**, **quiz**).
+
+## Accentuation
+
+Contrairement à l’allemand, en polonais l’accent tonique tombe, dans (presque) tous les cas, sur l’avant-dernière syllabe.
+
+Les exceptions, où l’accent tombe sur l’antépénultième syllabe (troisième à partir de la fin), sont :
+
+- Les emprunts d’origine grecque se terminant par **-ika** et **-yka** (*fizyka* [ˈfʲizɨka])
+- Les verbes au passé avec les désinences **-śmy** et **-ście** (*pytaliście* [pɨˈtalʲiɕʨɛ] au lieu de [pɨtaˈlʲiɕʨɛ])
+- Les verbes au conditionnel avec les désinences **-bym**, **-byś** et **-by** (*robiłbym* [ˈrɔbʲiwbɨm] au lieu de [rɔˈbʲiwbɨm])
+- Les numéraux (*czterysta* [ˈʧtɛrɨsta] au lieu de [ʧtɛˈrɨsta])
+- Les numéraux suivis du suffixe **-kroć** (*tysiąckroć* [ˈtɨɕɔnʦkrɔʨ] au lieu de [tɨˈɕɔnʦkrɔʨ])
+
+Les exceptions, où l’accent tombe sur l’antéantépénultième syllabe (quatrième à partir de la fin), sont :
+
+- Les verbes au conditionnel avec les désinences **-byśmy** et **-byście** (*pisalibyśmy* [pʲiˈsalʲibɨɕmɨ] au lieu de [pʲisalʲiˈbɨɕmɨ])
+- Les verbes au passé avec les désinences **-żeśmy** et **-żeście** (*spytaliżeście* [spɨˈtalʲiʒɛɕʨɛ] au lieu de [spɨtalʲiˈʒɛɕʨɛ])
 
 ## Prononciation
 
@@ -119,3 +136,19 @@ Les voyelles polonaises sont prononcées **courtes**.
 
 </tbody>
 </table>
+
+Lorsqu’on épelle un mot, les lettres **a**, **e**, **i** et **o** sont simplement appelées comme leur son.
+
+En revanche, les lettres **ó** et **u** se prononcent toutes les deux **[u]**. Pour les distinguer, on appelle :
+
+- **ó** : **u zamknięte** (« u fermé »)
+- **u** : **u otwarte** (« u ouvert »)
+
+D’autres noms pour **ó** sont également utilisés :
+
+- **o kreskowane** (« o barré »)
+- **o z kreską** (« o avec un trait »)
+
+Le choix entre **ó** et **u** est essentiellement **étymologique** (lié à l’histoire du mot). C’est pourquoi il s’agit d’une des fautes d’orthographe les plus fréquentes en polonais.
+
+La lettre **y** est appelée **igrek** [ˈigrɛk] (du français *i grec*).  Parmi toutes les voyelles polonaises, **y est la seule qui ne peut jamais apparaître au début d’un mot**.
