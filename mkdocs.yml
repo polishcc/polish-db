@@ -3,6 +3,11 @@ site_url: https://polishcc.github.io/polish-db/
 site_dir: site
 use_directory_urls: true
 
+nav:
+  - Polish Language Database: index.md
+  - En français:
+      - Phonétique polonaise: french/phonetique.md
+
 theme:
   name: material
 
