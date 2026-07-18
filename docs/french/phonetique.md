@@ -332,9 +332,7 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
 
 <hr>
 
-<p style="font-size:0.7em; opacity:0.6; text-align:center;">
-Source: Wikibooks – <a href="https://de.wikibooks.org/wiki/Polnisch/_Kurs/_Phonetik">Polnisch/Kurs/Phonetik</a> (translated and adapted).
-</p>
+
 
 <table class="pronunciation">
 <thead>
@@ -446,4 +444,8 @@ Source: Wikibooks – <a href="https://de.wikibooks.org/wiki/Polnisch/_Kurs/_Pho
 
 </tbody>
 </table>
+
+<p style="font-size:0.7em; opacity:0.6; text-align:center;">
+Source: Wikibooks – <a href="https://de.wikibooks.org/wiki/Polnisch/_Kurs/_Phonetik">Polnisch/Kurs/Phonetik</a> (translated and adapted).
+</p>
 

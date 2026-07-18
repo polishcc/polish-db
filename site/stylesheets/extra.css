@@ -12,9 +12,20 @@ table.pronunciation td {
 
 table.pronunciation th {
     text-align: left;
+    font-weight: bold;
+
+
 }
 
 table.pronunciation audio {
     width: 140px;
+}
+
+table.pronunciation td:first-child {
+    font-weight: bold;
+}
+
+table.pronunciation td.letters {
+    font-weight: bold;
 }
 
