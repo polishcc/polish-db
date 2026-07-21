@@ -153,7 +153,7 @@ Le choix entre **ó** et **u** est essentiellement **étymologique** (lié à l�
 
 La lettre **y** est appelée **igrek** [ˈigrɛk] (du français *i grec*).  Parmi toutes les voyelles polonaises, **y est la seule qui ne peut jamais apparaître au début d’un mot**.
 
-## Les consonnes et la lettre **i**
+### Les consonnes et la lettre **i**
 
 En polonais, la lettre **i** placée après une consonne la **palatalise** (la rend « mouillée »).
 
@@ -323,15 +323,9 @@ Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
 
 Notez que les consonnes douces ne peuvent jamais précéder le **y** et que les consonnes dures ne précèdent presque jamais le **i**. (Exceptions: les emprunts lexicaux, par exemple dżinsy [ˈʤinsɨ] = jeans)
 
-## Voyelles nasales
+### Voyelles nasales
 
 Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal** et **ą** est un **o nasal**. Leur prononciation dépend fortement des consonnes qui les suivent.
-
-
-
-
-<hr>
-
 
 
 <table class="pronunciation">
@@ -444,6 +438,339 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
 
 </tbody>
 </table>
+
+### Consonnes « simples »
+
+On présente d'abord les consonnes qui existent en français. En fin de mot ou devant une consonne sourde, les consonnes sonores qui ont un équivalent sourd deviennent leurs équivalents sourds.
+<!-- (jaune : sonore ; vert : sourde ; rose : semi-voyelle ; gris : autre) -->
+
+<table class="pronunciation">
+<thead>
+<tr>
+<th>Lettre</th>
+<th>Exemple écrit</th>
+<th>Exemple audio</th>
+<th>API</th>
+<th>Équivalant français</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+    <td class="letters" rowspan="2">b</td>
+    <td><strong>b</strong>ardzo</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/bardzo.ogg"></audio></td>
+    <td>[b]</td>
+    <td>b de bas</td>
+ </tr>
+
+<tr> 
+    <td>chle<strong>b</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/chleb.ogg"></audio></td>
+    <td rowspan="2">[p]</td>
+    <td rowspan="2">p de pas</td>
+</tr>
+
+<tr>
+    <td> p </td>
+    <td><strong>p</strong>an</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/pan.ogg"></audio></td>
+    
+ </tr>
+
+<tr>
+    <td class="letters" rowspan="2">d</td>
+    <td><strong>d</strong>om</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dom.ogg"></audio></td>
+    <td>[d]</td>
+    <td>d de dans</td>
+ </tr>
+
+<tr>   
+    <td>ko<strong>d</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kod.ogg"></audio></td>
+    <td rowspan="2"> [t]</td>
+    <td rowspan="2">t de tu </td>
+</tr>
+
+<tr>
+    <td> t </td>
+   <td> <strong>t</strong>ak </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/tak.ogg"></audio></td>
+    
+ </tr>
+
+<tr>
+    <td class="letters" rowspan="2">g</td>
+    
+    <td><strong>g</strong>óra</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/gora.ogg"></audio></td>
+    <td>[g]</td>
+    <td>g de grain</td>
+ </tr>
+
+<tr>   
+    
+    <td>katalo<strong>g</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/katalog.ogg"></audio></td>
+    <td rowspan="2">[k]</td>
+    <td rowspan="2">c de comme</td>
+
+</tr>
+
+<tr>
+    <td> k </td>
+    <td> <strong>k</strong>od </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kod.ogg"></audio></td>
+   
+ </tr>
+
+<tr>
+    <td class="letters" rowspan="2">w</td>
+    <td><strong>w</strong>aga</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/waga.ogg"></audio></td>
+    <td>[v]</td>
+    <td>v de vache</td>
+ </tr>
+
+<tr>   
+    <td>sta<strong>w</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/staw.ogg"></audio></td>
+    <td rowspan="2">[f]</td>
+    <td rowspan="2">f de fils</td>
+
+</tr>
+
+<tr>
+    <td> f </td>
+    <td> <strong>f</strong>ala </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/fala.ogg"></audio></td>
+   
+ </tr>
+
+ <tr>
+    <td class="letters" rowspan="2">z</td>
+    <td><strong>z</strong>a</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/za.ogg"></audio></td>
+    <td>[z]</td>
+    <td>z de zebra</td>
+ </tr>
+
+<tr>   
+    <td>ra<strong>z</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/raz.ogg"></audio></td>
+    <td rowspan="2">[s]</td>
+    <td rowspan="2">s de fils</td>
+
+</tr>
+
+<tr>
+    <td> s </td>
+    <td> <strong>s</strong>am </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/sam.ogg"></audio></td>
+   
+ </tr>
+
+<tr>
+    <td> j </td>
+    <td><strong>j</strong>ajo</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/jajo.ogg"></audio></td>
+    <td>[j]</td>
+    <td>y de yaourt </td>
+ </tr>
+ <tr>
+    <td> l </td>
+    <td><strong>l</strong>ato</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/lato.ogg"></audio></td>
+    <td>[l]</td>
+    <td>l de lit</td>
+ </tr>
+ <tr>
+    <td>m</td>
+    <td><strong>m</strong>oment</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/moment.ogg"></audio></td>
+    <td>[m]</td>
+    <td>m de main</td>
+ </tr>
+ <tr>
+    <td>n</td>
+    <td><strong>n</strong>oga</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/noga.ogg"></audio></td>
+    <td>[n]</td>
+    <td>n de nom</td>
+ </tr>
+
+  <tr>
+    <td>ń</td>
+    <td>ko<strong>ń</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kon.ogg"></audio></td>
+    <td>[ɲ]</td>
+    <td>gn de cognac</td>
+ </tr>
+
+ <tr>
+    <td>ł</td>
+    <td><strong>ł</strong>uk</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/luk.ogg"></audio></td>
+    <td>[w]</td>
+    <td>ou de oui</td>
+
+ </tr>
+
+ </tbody>
+</table>
+
+### Consonnes qui n'existent pas en français
+
+On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, en fin de mot ou devant une consonne sourde, les consonnes sonores, qui ont un equivalant sourd, deviennent leurs équivalents sourds.
+
+<table class="pronunciation">
+<thead>
+<tr>
+<th>Lettre</th>
+<th>Exemple écrit</th>
+<th>Exemple audio</th>
+<th>API</th>
+<th>Rémarques</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
+    <td class="letters" rowspan="2">dz</td>
+    <td><strong>dz</strong>won</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwon.ogg"></audio></td>
+    <td>[dz]</td>
+    <td>dz est proche du ds dans l'anglais adze ou kids, mais prononcé d'un seul mouvement.</td>
+ </tr>
+
+<tr> 
+    <td>ksią<strong>dz</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/ksiadz.ogg"></audio></td>
+    <td rowspan="2">[ts]</td>
+    <td rowspan="2" >c est proche du ts dans tsunami ou dans la prononciation allemande de Zeit. Il est le correspondant sourd de dz.</td>
+</tr>
+
+<tr>
+    <td> c </td>
+    <td><strong>c</strong>ena</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/cena.ogg"></audio></td>
+    
+ </tr>
+
+<tr>
+    <td class="letters" rowspan="2">ż, rz</td>
+    <td><strong>ż</strong>aba, <strong>rz</strong>eka</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zaba.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/rzeka.ogg"></audio></td>
+    <td>[ʒ]</td>
+    <td>j de jour mais le point d'articulation est plus reculé. Le son est plus sombre et plus « épais ». </td>
+ </tr>
+
+<tr>   
+    <td>masa<strong>ż</strong>, kalenda<strong>rz</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/masaz.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/kalendarz.ogg"></audio></td>
+    <td rowspan="2"> [ʂ]</td>
+    <td rowspan="2">ch de chemin, mais plus dur et articulé plus en arrière dans la bouche </td>
+</tr>
+
+<tr>
+    <td> sz </td>
+   <td> <strong>sz</strong>ef </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/szef.ogg"></audio></td>
+    
+ </tr>
+
+<tr>
+    <td> dż </td>
+    <td><strong>dż</strong>em</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzem.ogg"></audio></td>
+    <td>[d͡ʒ]</td>
+    <td>proche du j français, mais précédée d'un très bref d, comme g de gelato en italian </td>
+ </tr>
+ <tr>
+    <td> cz </td>
+    <td><strong>cz</strong>as</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/czas.ogg"></audio></td>
+    <td>[t͡ʂ]]</td>
+    <td> le tch français dans tchao, mais avec la langue légèrement plus en arrière dans la bouche </td>
+ </tr>
+
+<tr>
+    <td class="letters" rowspan="2">ź</td>
+    <td><strong>ź</strong>le</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zle.ogg"></audio></td>
+    <td>[ʑ]</td>
+    <td>ź est proche du j français dans je, mais plus doux et prononcé plus en avant dans la bouche.</td>
+ </tr>
+
+<tr> 
+    <td>znale<strong>ź</strong>ć</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/znalezc.ogg"></audio></td>
+    <td rowspan="2">[ɕ]</td>
+    <td rowspan="2"> ś est le correspondant sourd de ź. Il est proche du ch français dans chien, mais plus doux et prononcé plus en avant.</td>
+</tr>
+
+<tr>
+    <td> ś </td>
+    <td><strong>ś</strong>wiat</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/swiat.ogg"></audio></td>
+    
+ </tr>
+
+
+<tr>
+    <td class="letters" rowspan="2">dź</td>
+    <td><strong>dź</strong>wig</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwig.ogg"></audio></td>
+    <td>[]</td>
+    <td>dź est proche du dj dans adieu, mais plus doux et prononcé plus en avant.</td>
+ </tr>
+
+<tr>   
+    <td>mie<strong>dź</strong></td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/miedz.ogg"></audio></td>
+    <td rowspan="2">[]</td>
+    <td rowspan="2"> ć est le correspondant sourde de dź. Il est proche du tch français, mais plus doux et prononcé plus en avant dans la bouche.</td>
+
+</tr>
+
+<tr>
+    <td> ć </td>
+    <td> <strong>ć</strong>ma </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/cma.ogg"></audio></td>
+   
+ </tr>
+
+
+<tr>
+    <td> h, ch </td>
+    <td><strong>ch</strong>arakter, <strong>h</strong>otel </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/charakter.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/hotel.ogg"></audio></td>
+    <td>[x]</td>
+    <td> h et ch se prononcent de la même manière. Elles s'articulent à peu près au même endroit que le r français dans des mots comme carte ou tarte, mais sans faire vibrer la gorge. Il s'agit simplement d'un souffle produit à l'arrière de la bouche. </tr>
+
+ <tr>
+    <td> r </td>
+    <td><strong>r</strong>dza, </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/rdza.ogg"></audio>
+    <td>[r]</td>
+    <td> r se prononce en faisant vibrer la pointe de la langue juste derrière les dents supérieures</tr>
+ 
+ 
+
+ </tbody>
+</table>
+
+
+
+
+
+
+
+
+
 
 <p style="font-size:0.7em; opacity:0.6; text-align:center;">
 Source: Wikibooks – <a href="https://de.wikibooks.org/wiki/Polnisch/_Kurs/_Phonetik">Polnisch/Kurs/Phonetik</a> (translated and adapted).
