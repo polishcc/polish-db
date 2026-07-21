@@ -343,7 +343,7 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
 <tbody>
 
 <tr>
-    <td class="letters" rowspan="5">ą</td>
+    <td  rowspan="5">ą</td>
     <td>f, w, h, ch, s, z, sz, ż, rz, ś, ź, fin de mot</td>
     <td>mąż</td>
     <td>[ɔ̃]</td>
@@ -384,7 +384,7 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
 </tr>
 
 <tr>
-    <td class="letters" rowspan="6">ę</td>
+    <td  rowspan="6">ę</td>
     <td>f, w, h, ch, s, z, sz, ż, rz, ś, ź </td>
     <td>język</td>
     <td>[ɛ̃]</td>
@@ -458,7 +458,7 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
 <tbody>
 
 <tr>
-    <td class="letters" rowspan="2">b</td>
+    <td  rowspan="2">b</td>
     <td><strong>b</strong>ardzo</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/bardzo.ogg"></audio></td>
     <td>[b]</td>
@@ -480,7 +480,7 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
  </tr>
 
 <tr>
-    <td class="letters" rowspan="2">d</td>
+    <td  rowspan="2">d</td>
     <td><strong>d</strong>om</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dom.ogg"></audio></td>
     <td>[d]</td>
@@ -502,7 +502,7 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
  </tr>
 
 <tr>
-    <td class="letters" rowspan="2">g</td>
+    <td  rowspan="2">g</td>
     
     <td><strong>g</strong>óra</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/gora.ogg"></audio></td>
@@ -527,7 +527,7 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
  </tr>
 
 <tr>
-    <td class="letters" rowspan="2">w</td>
+    <td  rowspan="2">w</td>
     <td><strong>w</strong>aga</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/waga.ogg"></audio></td>
     <td>[v]</td>
@@ -550,7 +550,7 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
  </tr>
 
  <tr>
-    <td class="letters" rowspan="2">z</td>
+    <td  rowspan="2">z</td>
     <td><strong>z</strong>a</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/za.ogg"></audio></td>
     <td>[z]</td>
@@ -639,7 +639,7 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
 <tbody>
 
 <tr>
-    <td class="letters" rowspan="2">dz</td>
+    <td  rowspan="2">dz</td>
     <td><strong>dz</strong>won</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwon.ogg"></audio></td>
     <td>[dz]</td>
@@ -661,7 +661,7 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
  </tr>
 
 <tr>
-    <td class="letters" rowspan="2">ż, rz</td>
+    <td  rowspan="2">ż, rz</td>
     <td><strong>ż</strong>aba, <strong>rz</strong>eka</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zaba.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/rzeka.ogg"></audio></td>
     <td>[ʒ]</td>
@@ -698,7 +698,7 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
  </tr>
 
 <tr>
-    <td class="letters" rowspan="2">ź</td>
+    <td  rowspan="2">ź</td>
     <td><strong>ź</strong>le</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zle.ogg"></audio></td>
     <td>[ʑ]</td>
@@ -721,17 +721,17 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
 
 
 <tr>
-    <td class="letters" rowspan="2">dź</td>
+    <td  rowspan="2">dź</td>
     <td><strong>dź</strong>wig</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwig.ogg"></audio></td>
-    <td>[]</td>
+    <td>[ʥ]</td>
     <td>dź est proche du dj dans adieu, mais plus doux et prononcé plus en avant.</td>
  </tr>
 
 <tr>   
     <td>mie<strong>dź</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/miedz.ogg"></audio></td>
-    <td rowspan="2">[]</td>
+    <td rowspan="2">[ʨ]</td>
     <td rowspan="2"> ć est le correspondant sourde de dź. Il est proche du tch français, mais plus doux et prononcé plus en avant dans la bouche.</td>
 
 </tr>
