@@ -233,8 +233,8 @@ Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
 <tr>
 <td>di</td>
 <td>[dʲ]</td>
-<td>adwokat diabła</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/adwokat_diabla.ogg"></audio></td>
+<td>diabeł</td>
+<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/diabel.ogg"></audio></td>
 <td></td>
 </tr>
 
