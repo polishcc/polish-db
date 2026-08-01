@@ -18,7 +18,7 @@ Les lettres **Q**, **V** et **X** ne font pas partie de l'alphabet polonais. Ell
 
 ## Accentuation
 
-Contrairement à l’allemand, en polonais l’accent tonique tombe, dans (presque) tous les cas, sur l’avant-dernière syllabe.
+Contrairement au français, en polonais l’accent tonique tombe, dans (presque) tous les cas, sur l’avant-dernière syllabe.
 
 Les exceptions, où l’accent tombe sur l’antépénultième syllabe (troisième à partir de la fin), sont :
 
@@ -753,7 +753,7 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
 
  <tr>
     <td> r </td>
-    <td><strong>r</strong>dza, </td>
+    <td><strong>r</strong>dza </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/rdza.ogg"></audio>
     <td>[r]</td>
     <td> r se prononce en faisant vibrer la pointe de la langue juste derrière les dents supérieures</tr>

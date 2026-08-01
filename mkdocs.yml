@@ -5,6 +5,8 @@ use_directory_urls: true
 
 nav:
   - Polish Language Database: index.md
+  - In English:
+      - Polish fonetics: english/fonetics.md
   - En français:
       - Phonétique polonaise: french/phonetique.md
 
