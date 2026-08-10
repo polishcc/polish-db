@@ -1,3 +1,13 @@
+/* =========================================================
+   YOUR POLISH LANGUAGE COACH
+   Custom styles for MkDocs Material
+   ========================================================= */
+
+
+/* ---------------------------------------------------------
+   PRONUNCIATION TABLES
+   --------------------------------------------------------- */
+
 table.pronunciation {
     border-collapse: collapse;
     width: 100%;
@@ -13,8 +23,6 @@ table.pronunciation td {
 table.pronunciation th {
     text-align: left;
     font-weight: bold;
-
-
 }
 
 table.pronunciation audio {
@@ -22,3 +30,126 @@ table.pronunciation audio {
 }
 
 
+/* ---------------------------------------------------------
+   BRAND COLOURS
+   --------------------------------------------------------- */
+
+/*
+   These also replace some of MkDocs Material's default blue
+   with the colours used in your logo.
+*/
+
+:root {
+    --md-primary-fg-color: #d6003d;
+    --md-primary-fg-color--light: #ff4d00;
+    --md-primary-fg-color--dark: #a90030;
+
+    --md-accent-fg-color: #e84400;
+}
+
+
+/* ---------------------------------------------------------
+   TOP HEADER / STRIPE
+   --------------------------------------------------------- */
+
+.md-header {
+    background: linear-gradient(
+        90deg,
+        #d6003d 0%,
+        #ff4d00 55%,
+        #f5c400 100%
+    ) !important;
+}
+
+
+/* Search field inside header */
+
+.md-search__form {
+    background-color: rgba(0, 0, 0, 0.18) !important;
+}
+
+
+/* ---------------------------------------------------------
+   BUTTONS
+   --------------------------------------------------------- */
+
+/* All landing-page buttons */
+
+.md-typeset .md-button {
+    background: linear-gradient(
+        90deg,
+        #d6003d 0%,
+        #ff4d00 55%,
+        #f5c400 100%
+    ) !important;
+
+    border: none !important;
+    color: #ffffff !important;
+    font-weight: 600;
+}
+
+
+/* Button hover */
+
+.md-typeset .md-button:hover,
+.md-typeset .md-button:focus {
+    background: linear-gradient(
+        90deg,
+        #b80035 0%,
+        #e84400 55%,
+        #dfaF00 100%
+    ) !important;
+
+    color: #ffffff !important;
+}
+
+
+/* Primary button — explicitly override Material */
+
+.md-typeset .md-button--primary {
+    background: linear-gradient(
+        90deg,
+        #d6003d 0%,
+        #ff4d00 55%,
+        #f5c400 100%
+    ) !important;
+
+    border: none !important;
+    color: #ffffff !important;
+}
+
+
+/* ---------------------------------------------------------
+   LINKS
+   --------------------------------------------------------- */
+
+.md-typeset a:not(.md-button) {
+    color: #c9003c;
+}
+
+.md-typeset a:not(.md-button):hover {
+    color: #ff4d00;
+}
+
+
+/* ---------------------------------------------------------
+   LEFT NAVIGATION
+   --------------------------------------------------------- */
+
+.md-nav__link--active {
+    color: #c9003c !important;
+}
+
+.md-nav__link:hover {
+    color: #ff4d00;
+}
+
+
+/* ---------------------------------------------------------
+   HEADER LOGO
+   --------------------------------------------------------- */
+
+.md-header__button.md-logo img {
+    height: 32px;
+    width: auto;
+}
