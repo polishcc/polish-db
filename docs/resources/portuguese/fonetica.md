@@ -1,52 +1,52 @@
-# Phonétique polonaise
+# Fonética polonesa
 
-## L'alphabet polonais
+## O alfabeto polonês
 
-L'alphabet polonais est basé sur l'alphabet latin, mais il compte **32 lettres**. En plus de quelques lettres qui ne sont pas utilisées en polonais (**Q, V, X**), il comprend également plusieurs lettres propres à la langue polonaise.
+O alfabeto polonês baseia-se no alfabeto latino, mas possui **32 letras**. Além de algumas letras que não são usadas em polonês (**Q, V, X**), inclui também várias letras próprias da língua polonesa.
 
-L'alphabet polonais moderne est le suivant :
+O alfabeto polonês moderno é o seguinte:
 
 **Aa Ąą Bb Cc Ćć Dd Ee Ęę Ff Gg Hh Ii Jj Kk Ll Łł Mm Nn Ńń Oo Óó Pp Rr Ss Śś Tt Uu Ww Yy Zz Źź Żż**
 
-Le petit crochet sous les lettres **ą** et **ę** s'appelle un **ogonek** (en polonais : « petite queue »).
+O pequeno sinal sob as letras **ą** e **ę** chama-se **ogonek** (em polonês: “rabinho”).
 
-Outre les lettres simples, le polonais possède également plusieurs **digrammes** (deux lettres représentant un seul son) :
+Além das letras simples, o polonês também possui vários **dígrafos** (duas letras que representam um único som):
 
 **ch, cz, dz, dź, dż, rz, sz**
 
-Les lettres **Q**, **V** et **X** ne font pas partie de l'alphabet polonais. Elles n'apparaissent que dans certaines abréviations (par exemple **V** pour *volt*, en polonais **wolt**) ou dans quelques mots d'origine étrangère (par exemple **taxi**, **quiz**).
+As letras **Q**, **V** e **X** não fazem parte do alfabeto polonês. Aparecem apenas em algumas abreviaturas (por exemplo, **V** para *volt*, em polonês **wolt**) ou em algumas palavras de origem estrangeira (por exemplo, **taxi**, **quiz**).
 
-## Accentuation
+## Acentuação
 
-Contrairement au français, en polonais l’accent tonique tombe, dans (presque) tous les cas, sur l’avant-dernière syllabe.
+Ao contrário do português, em que a posição da sílaba tônica varia, em polonês o acento tônico recai, em (quase) todos os casos, sobre a penúltima sílaba.
 
-Les exceptions, où l’accent tombe sur l’antépénultième syllabe (troisième à partir de la fin), sont :
+As exceções em que o acento recai sobre a antepenúltima sílaba (a terceira a contar do fim) incluem:
 
-- Les emprunts d’origine grecque se terminant par **-ika** et **-yka** (*fizyka* [ˈfʲizɨka])
-- Les verbes au passé avec les désinences **-śmy** et **-ście** (*pytaliście* [pɨˈtalʲiɕʨɛ] au lieu de [pɨtaˈlʲiɕʨɛ])
-- Les verbes au conditionnel avec les désinences **-bym**, **-byś** et **-by** (*robiłbym* [ˈrɔbʲiwbɨm] au lieu de [rɔˈbʲiwbɨm])
-- Les numéraux (*czterysta* [ˈʧtɛrɨsta] au lieu de [ʧtɛˈrɨsta])
-- Les numéraux suivis du suffixe **-kroć** (*tysiąckroć* [ˈtɨɕɔnʦkrɔʨ] au lieu de [tɨˈɕɔnʦkrɔʨ])
+- Empréstimos de origem grega terminados em **-ika** e **-yka** (*fizyka* [ˈfʲizɨka])
+- Verbos no passado com as terminações **-śmy** e **-ście** (*pytaliście* [pɨˈtalʲiɕʨɛ] em vez de [pɨtaˈlʲiɕʨɛ])
+- Verbos no condicional com as terminações **-bym**, **-byś** e **-by** (*robiłbym* [ˈrɔbʲiwbɨm] em vez de [rɔˈbʲiwbɨm])
+- Numerais (*czterysta* [ˈʧtɛrɨsta] em vez de [ʧtɛˈrɨsta])
+- Numerais seguidos do sufixo **-kroć** (*tysiąckroć* [ˈtɨɕɔnʦkrɔʨ] em vez de [tɨˈɕɔnʦkrɔʨ])
 
-Les exceptions, où l’accent tombe sur l’antéantépénultième syllabe (quatrième à partir de la fin), sont :
+As exceções em que o acento recai sobre a quarta sílaba a contar do fim incluem:
 
-- Les verbes au conditionnel avec les désinences **-byśmy** et **-byście** (*pisalibyśmy* [pʲiˈsalʲibɨɕmɨ] au lieu de [pʲisalʲiˈbɨɕmɨ])
-- Les verbes au passé avec les désinences **-żeśmy** et **-żeście** (*spytaliżeście* [spɨˈtalʲiʒɛɕʨɛ] au lieu de [spɨtalʲiˈʒɛɕʨɛ])
+- Verbos no condicional com as terminações **-byśmy** e **-byście** (*pisalibyśmy* [pʲiˈsalʲibɨɕmɨ] em vez de [pʲisalʲiˈbɨɕmɨ])
+- Verbos no passado com as terminações **-żeśmy** e **-żeście** (*spytaliżeście* [spɨˈtalʲiʒɛɕʨɛ] em vez de [spɨtalʲiˈʒɛɕʨɛ])
 
-## Prononciation
+## Pronúncia
 
-### Les voyelles
+### As vogais
 
-Les voyelles polonaises sont prononcées **courtes**.
+As vogais polonesas são pronunciadas de forma **curta**, sem alongamento.
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>API</th>
-<th>Lettre</th>
-<th>Exemple écrit</th>
-<th>Exemple audio</th>
-<th>Équivalent français</th>
+<th>AFI</th>
+<th>Letra</th>
+<th>Exemplo escrito</th>
+<th>Exemplo de áudio</th>
+<th>Aproximação em português</th>
 </tr>
 </thead>
 
@@ -60,7 +60,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/tak.ogg"></audio>
 
 </td>
-<td><em>a</em> de <em>chat</em></td>
+<td>como o <em>a</em> de <em>pá</em>, curto e claro</td>
 </tr>
 
 <tr>
@@ -70,7 +70,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td>
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/krew.ogg"></audio>
 </td>
-<td>comme <em>è</em> dans <em>mère</em></td>
+<td>como o <em>é</em> aberto de <em>pé</em></td>
 </tr>
 
 <tr>
@@ -80,7 +80,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td>
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/i.ogg"></audio>
 </td>
-<td><em>i</em> de <em>si</em></td>
+<td>como o <em>i</em> de <em>vida</em></td>
 </tr>
 
 <tr>
@@ -90,7 +90,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td>
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/oko.ogg"></audio>
 </td>
-<td><em>o</em> de <em>porte ou le o ouvert du sud de la France</em></td>
+<td>como o <em>ó</em> aberto de <em>porta</em></td>
 </tr>
 
 <tr>
@@ -101,7 +101,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/mowic.ogg"></audio>
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/ku.ogg"></audio>
 </td>
-<td><em>ou</em> de <em>vous</em></td>
+<td>como o <em>u</em> de <em>tu</em></td>
 </tr>
 
 <tr>
@@ -111,7 +111,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td>
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/syn.ogg"></audio>
 </td>
-<td><em>Le y polonais est comme le e muet français, mais prononcé clairement dans "petit", se prononce plus en arrière que le i, tout en restant ouvert.</em></td>
+<td><em>Não há equivalente exato no português brasileiro. No português europeu, aproxima-se do e átono em palavras como de. É produzido mais atrás na boca do que i e com a língua mais relaxada.</em></td>
 </tr>
 
 <tr>
@@ -121,7 +121,7 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td>
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/maz.ogg"></audio>
 </td>
-<td><em>on</em> de <em>sont</em></td>
+<td><em>o</em> nasal, aproximadamente como em <em>bom</em>, mas geralmente mais aberto</td>
 </tr>
 
 <tr>
@@ -131,52 +131,52 @@ Les voyelles polonaises sont prononcées **courtes**.
 <td>
 <audio controls preload="none" src="/polish-db/assets/audio/sounds/jezyk.ogg"></audio>
 </td>
-<td><em>ain dans main (prononciation québécoise)</em></td>
+<td><em>e</em> nasal; não há equivalente exato, mas pode lembrar o início da vogal nasal em <em>bem</em></td>
 </tr>
 
 </tbody>
 </table>
 
-Lorsqu’on épelle un mot, les lettres **a**, **e**, **i** et **o** sont simplement appelées comme leur son.
+Ao soletrar uma palavra, as letras **a**, **e**, **i** e **o** são simplesmente chamadas pelo próprio som.
 
-En revanche, les lettres **ó** et **u** se prononcent toutes les deux **[u]**. Pour les distinguer, on appelle :
+Já as letras **ó** e **u** são ambas pronunciadas **[u]**. Para distingui-las ao soletrar, usam-se os nomes:
 
-- **ó** : **u zamknięte** (« u fermé »)
-- **u** : **u otwarte** (« u ouvert »)
+- **ó**: **u zamknięte** (“u fechado”)
+- **u**: **u otwarte** (“u aberto”)
 
-D’autres noms pour **ó** sont également utilisés :
+Também se usam outros nomes para **ó**:
 
-- **o kreskowane** (« o barré »)
-- **o z kreską** (« o avec un trait »)
+- **o kreskowane** (“o com traço”)
+- **o z kreską** (“o com um traço”)
 
-Le choix entre **ó** et **u** est essentiellement **étymologique** (lié à l’histoire du mot). C’est pourquoi il s’agit d’une des fautes d’orthographe les plus fréquentes en polonais.
+A escolha entre **ó** e **u** é essencialmente **etimológica** (ligada à história da palavra). Por isso, é uma das dificuldades ortográficas mais frequentes em polonês.
 
-La lettre **y** est appelée **igrek** [ˈigrɛk] (du français *i grec*).  Parmi toutes les voyelles polonaises, **y est la seule qui ne peut jamais apparaître au début d’un mot**.
+A letra **y** chama-se **igrek** [ˈigrɛk] (nome historicamente derivado da expressão francesa para “i grego”). Entre todas as vogais polonesas, **y é a única que nunca pode aparecer no início de uma palavra**.
 
-### Les consonnes et la lettre **i**
+### As consoantes e a letra **i**
 
-En polonais, la lettre **i** placée après une consonne la **palatalise** (la rend « mouillée »).
+Em polonês, a letra **i** colocada depois de uma consoante pode **palatalizá-la** (isto é, torná-la “suave”, aproximando a língua do palato).
 
-Lorsqu'une voyelle suit le **i**, celui-ci ne sert qu'à palataliser la consonne.
+Quando uma vogal vem depois de **i**, esse **i** pode servir apenas para indicar a palatalização da consoante anterior.
 
-Le **i** avant une voyelle:
+O **i** antes de uma vogal:
 
-- après les lettres **c, s, z, dz** et **n**, ne se prononce **pas**.
-- après les autres consonnes, il se prononce généralement comme un **[j]**.
+- depois das letras **c, s, z, dz** e **n**, não é pronunciado como uma vogal separada;
+- depois de outras consoantes, geralmente acrescenta uma passagem semelhante a **[j]**, como o som de <em>i</em> em português em sequências como <em>iate</em>.
 
-Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
+Assim, as consoantes palatais **ć, ś, ź, dź** e **ń** escrevem-se:
 
-- **ć, ś, ź, dź, ń** devant une consonne ou à la fin d'un mot ;
-- **ci, si, zi, dzi, ni** devant une voyelle.
+- **ć, ś, ź, dź, ń** antes de uma consoante ou no fim de uma palavra;
+- **ci, si, zi, dzi, ni** antes de uma vogal.
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>Lettres</th>
-<th>API</th>
-<th>Exemple écrit</th>
-<th>Exemple audio</th>
-<th>Remarques</th>
+<th>Letras</th>
+<th>AFI</th>
+<th>Exemplo escrito</th>
+<th>Exemplo de áudio</th>
+<th>Observações</th>
 </tr>
 </thead>
 
@@ -243,7 +243,7 @@ Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
 <td>[ʥ]</td>
 <td>dziad</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dziad.ogg"></audio></td>
-<td> équivalent à dź  </td>
+<td>equivalente a dź</td>
 </tr>
 
 <tr>
@@ -259,7 +259,7 @@ Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
 <td>[ʨ]</td>
 <td>ciasto</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/ciasto.ogg"></audio></td>
-<td>équivalent à ć </td>
+<td>equivalente a ć</td>
 </tr>
 
 <tr>
@@ -267,7 +267,7 @@ Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
 <td>[ʑ]</td>
 <td>zielony</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zielony.ogg"></audio></td>
-<td>équivalent à ź </td>
+<td>equivalente a ź</td>
 </tr>
 
 <tr>
@@ -275,7 +275,7 @@ Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
 <td>[ɕ]</td>
 <td>siarka</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/siarka.ogg"></audio></td>
-<td>équivalent à ś </td>
+<td>equivalente a ś</td>
 </tr>
 
 <tr>
@@ -307,7 +307,7 @@ Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
 <td>[ɲ]</td>
 <td>kuchnia</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kuchnia.ogg"></audio></td>
-<td>équivalent à ń </td>
+<td>equivalente a ń; muito próximo de <em>nh</em> em português</td>
 </tr>
 
 <tr>
@@ -321,22 +321,22 @@ Ainsi, les consonnes palatales **ć, ś, ź, dź** et **ń** s'écrivent :
 </tbody>
 </table>
 
-Notez que les consonnes douces ne peuvent jamais précéder le **y** et que les consonnes dures ne précèdent presque jamais le **i**. (Exceptions: les emprunts lexicaux, par exemple dżinsy [ˈʤinsɨ] = jeans)
+Observe que as consoantes suaves nunca podem preceder **y**, e as consoantes duras quase nunca precedem **i**. (Exceções: empréstimos lexicais, por exemplo **dżinsy** [ˈʤinsɨ] = jeans.)
 
-### Voyelles nasales
+### Vogais nasais
 
-Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal** et **ą** est un **o nasal**. Leur prononciation dépend fortement des consonnes qui les suivent.
+As letras **ę** e **ą** representam vogais nasais: **ę** parte de um **e nasal** e **ą** de um **o nasal**. A pronúncia concreta depende fortemente da consoante seguinte.
 
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>Lettre</th>
-<th>Consonne suivante</th>
-<th>Exemple écrit</th>
-<th>API</th>
-<th>Exemple audio</th>
-<th>Équivalant français</th>
+<th>Letra</th>
+<th>Consoante seguinte</th>
+<th>Exemplo escrito</th>
+<th>AFI</th>
+<th>Exemplo de áudio</th>
+<th>Aproximação em português</th>
 </tr>
 </thead>
 
@@ -344,11 +344,11 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
 
 <tr>
     <td  rowspan="5">ą</td>
-    <td>f, w, h, ch, s, z, sz, ż, rz, ś, ź, fin de mot</td>
+    <td>f, w, h, ch, s, z, sz, ż, rz, ś, ź, fim de palavra</td>
     <td>mąż</td>
     <td>[ɔ̃]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/maz.ogg"></audio></td>
-    <td>comme balcon en français</td>
+    <td>vogal nasal semelhante a um <em>o</em> nasal português, mas geralmente mais aberta</td>
 </tr>
 
 <tr>
@@ -356,7 +356,7 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
     <td>skąpiec</td>
     <td>[ɔm]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/skapiec.ogg"></audio></td>
-    <td> comme om in pompka en polonais </td>
+    <td>aproxima-se de <strong>om</strong>: a nasalidade realiza-se como <strong>m</strong> antes de b/p</td>
 </tr>
 
 <tr>
@@ -364,7 +364,7 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
     <td>pociąg</td>
     <td>[ɔŋ]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/pociag.ogg"></audio></td>
-    <td> comme on in biedronka en polonais </td>
+    <td>aproxima-se de <strong>ong</strong>, com som nasal [ŋ], como o <em>ng</em> inglês de <em>sing</em></td>
 </tr>
 
 <tr>
@@ -372,15 +372,15 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
     <td>piątek</td>
     <td>[ɔn]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/piatek.ogg"></audio></td>
-    <td> on de konto en polonais</td>
+    <td>aproxima-se de <strong>on</strong>, com um <strong>n</strong> claramente articulado</td>
 </tr>
 
 <tr>
     <td>ć, dź</td>
     <td>bądź</td>
     <td>[ɔɲ]</td>
-    <td></td>
-    <td> oń de koń en polonais</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/badz.ogg"></audio></td>
+    <td>aproxima-se de <strong>oń</strong>; o som nasal final é semelhante ao <em>nh</em> português</td>
 </tr>
 
 <tr>
@@ -389,15 +389,15 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
     <td>język</td>
     <td>[ɛ̃]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/jezyk.ogg"></audio></td>
-    <td></td>
+    <td>aproxima-se de <strong>em</strong></td>
 </tr>
 
 <tr>
     <td>b, p</td>
     <td>gęba</td>
     <td>[ɛm]</td>
-    <td></td>
-    <td> comme em in zemsta en polonais </td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/geba.ogg"></audio></td>
+    <td>aproxima-se de <strong>em</strong>: a nasalidade realiza-se como <strong>m</strong> antes de b/p</td>
 </tr>
 
 <tr>
@@ -405,7 +405,7 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
     <td>dźwięk</td>
     <td>[ɛŋ]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwiek.ogg"></audio></td>
-    <td> comme en in piosenka en polonais </td>
+    <td>aproxima-se de <strong>eng</strong>, com som nasal [ŋ], como o <em>ng</em> inglês de <em>sing</em></td>
 </tr>
 
 <tr>
@@ -413,24 +413,24 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
     <td>wędrować</td>
     <td>[ɛn]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/wedrowac.ogg"></audio></td>
-    <td> en de ten en polonais</td>
+    <td>aproxima-se de <strong>en</strong>, com um <strong>n</strong> claramente articulado</td>
 </tr>
 
 <tr>
     <td>ć, dź</td>
-    <td>będzie</td>
+    <td>wszędzie</td>
     <td>[ɛɲ]</td>
-    <td></td>
-    <td> eń de pień en polonais</td>
+    <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/wszedzie.ogg"></audio></td>
+    <td>aproxima-se de <strong>eń</strong>; o som nasal final é semelhante ao <em>nh</em> português</td>
 </tr>
 
 <tr>
-    <td>fin du mot</td>
+    <td>fim da palavra</td>
     <td>imię</td>
     <td>[ɛ]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/imie.ogg"></audio></td>
 
-    <td> un polonais régulier e </td>
+    <td>no fim da palavra, normalmente soa como um <strong>e</strong> polonês comum, sem nasalização forte</td>
 </tr>
 
 
@@ -439,19 +439,19 @@ Les lettres **ę** et **ą** sont des voyelles nasales : **ę** est un **e nasal
 </tbody>
 </table>
 
-### Consonnes « simples »
+### Consoantes “simples”
 
-On présente d'abord les consonnes qui existent en français. En fin de mot ou devant une consonne sourde, les consonnes sonores qui ont un équivalent sourd deviennent leurs équivalents sourds.
-<!-- (jaune : sonore ; vert : sourde ; rose : semi-voyelle ; gris : autre) -->
+Começamos pelas consoantes que têm equivalentes próximos em português. No fim de uma palavra ou antes de uma consoante surda, as consoantes sonoras que possuem um par surdo passam a ser pronunciadas como esse par surdo.
+<!-- (amarelo: sonora; verde: surda; rosa: semivogal; cinzento/cinza: outra) -->
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>Lettre</th>
-<th>Exemple écrit</th>
-<th>Exemple audio</th>
-<th>API</th>
-<th>Équivalant français</th>
+<th>Letra</th>
+<th>Exemplo escrito</th>
+<th>Exemplo de áudio</th>
+<th>AFI</th>
+<th>Aproximação em português</th>
 </tr>
 </thead>
 
@@ -462,14 +462,14 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td><strong>b</strong>ardzo</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/bardzo.ogg"></audio></td>
     <td>[b]</td>
-    <td>b de bas</td>
+    <td>como <strong>b</strong> em <em>bem</em></td>
  </tr>
 
 <tr> 
     <td>chle<strong>b</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/chleb.ogg"></audio></td>
     <td rowspan="2">[p]</td>
-    <td rowspan="2">p de pas</td>
+    <td rowspan="2">como <strong>p</strong> em <em>pai</em></td>
 </tr>
 
 <tr>
@@ -484,14 +484,14 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td><strong>d</strong>om</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dom.ogg"></audio></td>
     <td>[d]</td>
-    <td>d de dans</td>
+    <td>como <strong>d</strong> em <em>dar</em> (sem a palatalização que pode ocorrer no português brasileiro antes de i)</td>
  </tr>
 
 <tr>   
     <td>ko<strong>d</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kod.ogg"></audio></td>
     <td rowspan="2"> [t]</td>
-    <td rowspan="2">t de tu </td>
+    <td rowspan="2">como <strong>t</strong> em <em>tarde</em> (sem palatalização)</td>
 </tr>
 
 <tr>
@@ -507,7 +507,7 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td><strong>g</strong>óra</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/gora.ogg"></audio></td>
     <td>[g]</td>
-    <td>g de grain</td>
+    <td>como <strong>g</strong> em <em>gato</em></td>
  </tr>
 
 <tr>   
@@ -515,7 +515,7 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td>katalo<strong>g</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/katalog.ogg"></audio></td>
     <td rowspan="2">[k]</td>
-    <td rowspan="2">c de comme</td>
+    <td rowspan="2">como <strong>c</strong> em <em>casa</em></td>
 
 </tr>
 
@@ -531,14 +531,14 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td><strong>w</strong>aga</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/waga.ogg"></audio></td>
     <td>[v]</td>
-    <td>v de vache</td>
+    <td>como <strong>v</strong> em <em>vaca</em></td>
  </tr>
 
 <tr>   
     <td>sta<strong>w</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/staw.ogg"></audio></td>
     <td rowspan="2">[f]</td>
-    <td rowspan="2">f de fils</td>
+    <td rowspan="2">como <strong>f</strong> em <em>faca</em></td>
 
 </tr>
 
@@ -554,14 +554,14 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td><strong>z</strong>a</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/za.ogg"></audio></td>
     <td>[z]</td>
-    <td>z de zebra</td>
+    <td>como <strong>z</strong> em <em>zero</em></td>
  </tr>
 
 <tr>   
     <td>ra<strong>z</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/raz.ogg"></audio></td>
     <td rowspan="2">[s]</td>
-    <td rowspan="2">s de fils</td>
+    <td rowspan="2">como <strong>s</strong> em <em>sapo</em></td>
 
 </tr>
 
@@ -577,28 +577,28 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td><strong>j</strong>ajo</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/jajo.ogg"></audio></td>
     <td>[j]</td>
-    <td>y de yaourt </td>
+    <td>como a semivogal <strong>[j]</strong> no início de <em>iate</em></td>
  </tr>
  <tr>
     <td> l </td>
     <td><strong>l</strong>ato</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/lato.ogg"></audio></td>
     <td>[l]</td>
-    <td>l de lit</td>
+    <td>como <strong>l</strong> em <em>lado</em>; em polonês mantém-se [l] também no fim da sílaba</td>
  </tr>
  <tr>
     <td>m</td>
     <td><strong>m</strong>oment</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/moment.ogg"></audio></td>
     <td>[m]</td>
-    <td>m de main</td>
+    <td>como <strong>m</strong> em <em>mão</em></td>
  </tr>
  <tr>
     <td>n</td>
     <td><strong>n</strong>oga</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/noga.ogg"></audio></td>
     <td>[n]</td>
-    <td>n de nom</td>
+    <td>como <strong>n</strong> em <em>nada</em></td>
  </tr>
 
   <tr>
@@ -606,7 +606,7 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td>ko<strong>ń</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kon.ogg"></audio></td>
     <td>[ɲ]</td>
-    <td>gn de cognac</td>
+    <td>como <strong>nh</strong> em <em>vinho</em></td>
  </tr>
 
  <tr>
@@ -614,24 +614,24 @@ On présente d'abord les consonnes qui existent en français. En fin de mot ou d
     <td><strong>ł</strong>uk</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/luk.ogg"></audio></td>
     <td>[w]</td>
-    <td>ou de oui</td>
+    <td>como a semivogal <strong>[w]</strong>, semelhante ao <strong>u</strong> em <em>quase</em></td>
 
  </tr>
 
  </tbody>
 </table>
 
-### Consonnes qui n'existent pas en français
+### Consoantes sem equivalente exato em português
 
-On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, en fin de mot ou devant une consonne sourde, les consonnes sonores, qui ont un equivalant sourd, deviennent leurs équivalents sourds.
+A seguir vêm consoantes que não têm um equivalente exato em português. Aqui também, no fim de uma palavra ou antes de uma consoante surda, as consoantes sonoras que possuem um par surdo passam a ser pronunciadas como esse par surdo.
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>Lettre</th>
-<th>Exemple écrit</th>
-<th>Exemple audio</th>
-<th>API</th>
+<th>Letra</th>
+<th>Exemplo escrito</th>
+<th>Exemplo de áudio</th>
+<th>AFI</th>
 <th>Rémarques</th>
 </tr>
 </thead>
@@ -643,14 +643,14 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
     <td><strong>dz</strong>won</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwon.ogg"></audio></td>
     <td>[dz]</td>
-    <td>dz est proche du ds dans l'anglais adze ou kids, mais prononcé d'un seul mouvement.</td>
+    <td><strong>dz</strong> é uma africada: pronuncie <strong>d</strong> + <strong>z</strong> num único movimento, sem separar os dois sons.</td>
  </tr>
 
 <tr> 
     <td>ksią<strong>dz</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/ksiadz.ogg"></audio></td>
     <td rowspan="2">[ts]</td>
-    <td rowspan="2" >c est proche du ts dans tsunami ou dans la prononciation allemande de Zeit. Il est le correspondant sourd de dz.</td>
+    <td rowspan="2" ><strong>c</strong> soa como <strong>ts</strong> pronunciado num único movimento, como no início de <em>tsunami</em>. É o correspondente surdo de <strong>dz</strong>.</td>
 </tr>
 
 <tr>
@@ -665,14 +665,14 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
     <td><strong>ż</strong>aba, <strong>rz</strong>eka</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zaba.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/rzeka.ogg"></audio></td>
     <td>[ʒ]</td>
-    <td>j de jour mais le point d'articulation est plus reculé. Le son est plus sombre et plus « épais ». </td>
+    <td>lembra o som de <strong>j</strong> em <em>jogo</em>, mas é articulado mais atrás na boca e soa mais “escuro” e espesso</td>
  </tr>
 
 <tr>   
     <td>masa<strong>ż</strong>, kalenda<strong>rz</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/masaz.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/kalendarz.ogg"></audio></td>
     <td rowspan="2"> [ʂ]</td>
-    <td rowspan="2">ch de chemin, mais plus dur et articulé plus en arrière dans la bouche </td>
+    <td rowspan="2">lembra o som de <strong>ch</strong> em <em>chave</em>, mas é articulado mais atrás na boca e soa mais duro</td>
 </tr>
 
 <tr>
@@ -687,14 +687,14 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
     <td><strong>dż</strong>em</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzem.ogg"></audio></td>
     <td>[d͡ʒ]</td>
-    <td>proche du j français, mais précédée d'un très bref d, comme g de gelato en italian </td>
+    <td>uma africada sonora: começa com um <strong>d</strong> muito breve e passa imediatamente para um som semelhante ao <strong>j</strong> de <em>jogo</em>, mas com a língua mais atrás</td>
  </tr>
  <tr>
     <td> cz </td>
     <td><strong>cz</strong>as</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/czas.ogg"></audio></td>
     <td>[t͡ʂ]]</td>
-    <td> le tch français dans tchao, mais avec la langue légèrement plus en arrière dans la bouche </td>
+    <td>soa aproximadamente como <strong>tch</strong> em <em>tchau</em>, mas com a língua ligeiramente mais atrás na boca</td>
  </tr>
 
 <tr>
@@ -702,14 +702,14 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
     <td><strong>ź</strong>le</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zle.ogg"></audio></td>
     <td>[ʑ]</td>
-    <td>ź est proche du j français dans je, mais plus doux et prononcé plus en avant dans la bouche.</td>
+    <td><strong>ź</strong> lembra um <strong>j</strong> muito suave, mas é pronunciado mais à frente, com a língua próxima do palato; não há equivalente exato em português</td>
  </tr>
 
 <tr> 
     <td>znale<strong>ź</strong>ć</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/znalezc.ogg"></audio></td>
     <td rowspan="2">[ɕ]</td>
-    <td rowspan="2"> ś est le correspondant sourd de ź. Il est proche du ch français dans chien, mais plus doux et prononcé plus en avant.</td>
+    <td rowspan="2"><strong>ś</strong> é o correspondente surdo de <strong>ź</strong>. Lembra um <strong>ch</strong> muito suave, pronunciado mais à frente e com a língua próxima do palato.</td>
 </tr>
 
 <tr>
@@ -725,14 +725,14 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
     <td><strong>dź</strong>wig</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwig.ogg"></audio></td>
     <td>[ʥ]</td>
-    <td>dź est proche du dj dans adieu, mais plus doux et prononcé plus en avant.</td>
+    <td><strong>dź</strong> é uma africada muito suave: começa com <strong>d</strong> e passa imediatamente para um som palatal semelhante a <strong>ź</strong>; não há equivalente exato em português</td>
  </tr>
 
 <tr>   
     <td>mie<strong>dź</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/miedz.ogg"></audio></td>
     <td rowspan="2">[ʨ]</td>
-    <td rowspan="2"> ć est le correspondant sourde de dź. Il est proche du tch français, mais plus doux et prononcé plus en avant dans la bouche.</td>
+    <td rowspan="2"><strong>ć</strong> é o correspondente surdo de <strong>dź</strong>. Lembra <strong>tch</strong>, mas é muito mais suave e pronunciado mais à frente, com a língua próxima do palato.</td>
 
 </tr>
 
@@ -749,14 +749,14 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
     <td><strong>ch</strong>arakter, <strong>h</strong>otel </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/charakter.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/hotel.ogg"></audio></td>
     <td>[x]</td>
-    <td> h et ch se prononcent de la même manière. Elles s'articulent à peu près au même endroit que le r français dans des mots comme carte ou tarte, mais sans faire vibrer la gorge. Il s'agit simplement d'un souffle produit à l'arrière de la bouche. </tr>
+    <td><strong>h</strong> e <strong>ch</strong> pronunciam-se da mesma maneira. O som [x] é produzido com uma fricção na parte de trás da boca, semelhante ao <strong>j</strong> do espanhol <em>jamón</em>. Em algumas variedades do português, pode lembrar uma realização forte de <strong>r</strong>, mas sem vibração. </tr>
 
  <tr>
     <td> r </td>
     <td><strong>r</strong>dza </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/rdza.ogg"></audio>
     <td>[r]</td>
-    <td> r se prononce en faisant vibrer la pointe de la langue juste derrière les dents supérieures</tr>
+    <td><strong>r</strong> é vibrado com a ponta da língua logo atrás dos dentes superiores, semelhante ao <strong>rr</strong> vibrante de algumas variedades do português ou ao <strong>r</strong> do espanhol.</tr>
  
  
 
@@ -773,6 +773,6 @@ On présente d'abord les consonnes qui n'existent pas en français. Ici, aussi, 
 
 
 <p style="font-size:0.7em; opacity:0.6; text-align:center;">
-Source: Wikibooks – <a href="https://de.wikibooks.org/wiki/Polnisch/_Kurs/_Phonetik">Polnisch/Kurs/Phonetik</a> (translated and adapted).
+Fonte: Wikibooks – <a href="https://de.wikibooks.org/wiki/Polnisch/_Kurs/_Phonetik">Polnisch/Kurs/Phonetik</a> (traduzido e adaptado).
 </p>
 

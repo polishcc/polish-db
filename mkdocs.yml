@@ -1,17 +1,36 @@
-site_name: Polish Language Database
+site_name: Your Polish Language Coach
 site_url: https://polishcc.github.io/polish-db/
 site_dir: site
 use_directory_urls: true
 
+markdown_extensions:
+  - attr_list
+
 nav:
-  - Polish Language Database: index.md
-  - In English:
-      - Polish phonetics: english/phonetics.md
-  - En français:
-      - Phonétique polonaise: french/phonetique.md
+  - Home: index.md
+
+  - Polish Language Coaching: coaching.md
+
+  - 10h Polish Crash Course: crash-course.md
+
+  - Polish Language Resources:
+      - Choose your language:
+          - In English:
+              - Polish Phonetics: resources/english/phonetics.md
+
+          - En français:
+              - Phonétique polonaise: resources/french/phonetique.md
+
+          - Em português:
+              - Fonetica polonesa: resources/portuguese/fonetica.md
+  - About: about.md
+
+  - Contact: contact.md
 
 theme:
   name: material
+  logo: assets/brand/logo_no_text.png
+  favicon: assets/brand/logo_no_text.png
 
 extra_css:
   - stylesheets/extra.css
