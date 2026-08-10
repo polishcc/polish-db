@@ -22,14 +22,14 @@ the lessons are built around the situations that matter to you.
 
 ---
 
-### 10h Polish Crash Course
+<!-- ### 10h Polish Crash Course
 
 Need useful Polish quickly?
 
 The 10-hour Polish Crash Course is an intensive introduction to practical
 Polish, designed to give you the foundations you need to start communicating.
 
-[Discover the 10h Polish Crash Course](crash-course.md)
+[Discover the 10h Polish Crash Course](crash-course.md) -->
 
 ---
 
@@ -39,11 +39,9 @@ Explore my growing multilingual collection of free resources for learning Polish
 
 Currently available:
 
-- Polish phonetics in English
-- Phonétique polonaise en français
-- Fonetica polonesa en português
-
-[Explore Polish Resources](resources.md)
+- [Polish phonetics in English](resources/english/phonetics.md)
+- [Phonétique polonaise en français](resources/french/phonetique.md)
+- [Fonética polonesa em português](resources/portuguese/fonetica.md)
 
 ---
 
