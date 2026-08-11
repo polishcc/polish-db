@@ -1,55 +1,52 @@
-# Polish Phonetics
+# Fonética polaca
 
-## The Polish Alphabet
+## El alfabeto polaco
 
-The Polish alphabet is based on the Latin alphabet, but it contains **32 letters**. In addition to omitting a few letters that are not used in Polish (**Q, V, X**), it also includes several letters unique to the Polish language.
+El alfabeto polaco se basa en el alfabeto latino y tiene **32 letras**. Además de algunas letras que no se utilizan en polaco (**Q, V, X**), contiene varias letras características de la lengua polaca.
 
-The modern Polish alphabet is:
+El alfabeto polaco moderno completo es el siguiente:
 
 **Aa Ąą Bb Cc Ćć Dd Ee Ęę Ff Gg Hh Ii Jj Kk Ll Łł Mm Nn Ńń Oo Óó Pp Rr Ss Śś Tt Uu Ww Yy Zz Źź Żż**
 
-The small hook beneath the letters **ą** and **ę** is called an **ogonek** (Polish for "little tail").
+El pequeño gancho bajo las letras **ą** y **ę** se llama **ogonek** (en polaco: «colita»).
 
-Besides single letters, Polish also has several **digraphs** (two letters representing a single sound):
+Además de las letras simples, el polaco tiene varios **dígrafos** (dos letras que juntas representan un solo sonido):
 
 **ch, cz, dz, dź, dż, rz, sz**
 
-The letters **Q**, **V**, and **X** are not part of the Polish alphabet. They appear only in certain abbreviations (for example, **V** for *volt*, which is **wolt** in Polish) or in a few words of foreign origin (such as **taxi** and **quiz**).
+Las letras **Q**, **V** y **X** no forman parte del alfabeto polaco. Solo aparecen en algunas abreviaturas (por ejemplo, **V** para *voltio*, en polaco **wolt**) o en algunos extranjerismos (por ejemplo, **taxi**, **quiz**).
 
+## Acentuación
 
-## Stress
+En polaco, el acento tónico recae en (casi) todos los casos en la **penúltima sílaba**.
 
-Unlike French, in Polish the stress falls on the **penultimate (second-to-last) syllable** in almost all cases.
+Las excepciones en las que el acento recae en la **antepenúltima sílaba** son:
 
-The main exceptions, where the stress falls on the third syllable from the end, are:
+- Préstamos de origen griego terminados en **-ika** y **-yka** (*fizyka* [ˈfʲizɨka])
+- Verbos en pasado con las terminaciones **-śmy** y **-ście** (*pytaliście* [pɨˈtalʲiɕʨɛ] en lugar de [pɨtaˈlʲiɕʨɛ])
+- Verbos en condicional con las terminaciones **-bym**, **-byś** y **-by** (*robiłbym* [ˈrɔbʲiwbɨm] en lugar de [rɔˈbʲiwbɨm])
+- Numerales (*czterysta* [ˈʧtɛrɨsta] en lugar de [ʧtɛˈrɨsta])
+- Numerales con el sufijo **-kroć** (*tysiąckroć* [ˈtɨɕɔnʦkrɔʨ] en lugar de [tɨˈɕɔnʦkrɔʨ])
 
-- Words of Greek origin ending in **-ika** and **-yka** (*fizyka* [ˈfʲizɨka])
-- Past-tense verbs with the endings **-śmy** and **-ście** (*pytaliście* [pɨˈtalʲiɕʨɛ] instead of [pɨtaˈlʲiɕʨɛ])
-- Conditional verbs with the endings **-bym**, **-byś** and **-by** (*robiłbym* [ˈrɔbʲiwbɨm] instead of [rɔˈbʲiwbɨm])
-- Numerals (*czterysta* [ˈʧtɛrɨsta] instead of [ʧtɛˈrɨsta])
-- Numerals followed by the suffix **-kroć** (*tysiąckroć* [ˈtɨɕɔnʦkrɔʨ] instead of [tɨˈɕɔnʦkrɔʨ])
+Las excepciones en las que el acento recae en la **cuarta sílaba contando desde el final** son:
 
-There are also exceptions where the stress falls on the fourth syllable from the end:
+- Verbos en condicional con las terminaciones **-byśmy** y **-byście** (*pisalibyśmy* [pʲiˈsalʲibɨɕmɨ] en lugar de [pʲisalʲiˈbɨɕmɨ])
+- Verbos en pasado con las terminaciones **-żeśmy** y **-żeście** (*spytaliżeście* [spɨˈtalʲiʒɛɕʨɛ] en lugar de [spɨtalʲiˈʒɛɕʨɛ])
 
-- Conditional verbs with the endings **-byśmy** and **-byście** (*pisalibyśmy* [pʲiˈsalʲibɨɕmɨ] instead of [pʲisalʲiˈbɨɕmɨ])
-- Past-tense verbs with the endings **-żeśmy** and **-żeście** (*spytaliżeście* [spɨˈtalʲiʒɛɕʨɛ] instead of [spɨtalʲiˈʒɛɕʨɛ])
+## Pronunciación
 
+### Vocales
 
-
-## Pronunciation
-
-### Vowels
-
-Polish vowels are always pronounced **short**.
+Las vocales polacas se pronuncian normalmente **cortas**.
 
 <table class="pronunciation">
 <thead>
 <tr>
 <th>IPA</th>
-<th>Letter</th>
-<th>Written example</th>
-<th>Audio example</th>
-<th>English equivalent / approximation</th>
+<th>Letra</th>
+<th>Ejemplo escrito</th>
+<th>Ejemplo de audio</th>
+<th>Equivalente aproximado en español</th>
 </tr>
 </thead>
 
@@ -59,110 +56,127 @@ Polish vowels are always pronounced **short**.
 <td>[a]</td>
 <td>a</td>
 <td>tak</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/tak.ogg"></audio></td>
-<td><em>a</em> as in <em>father</em></td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/tak.ogg"></audio>
+
+</td>
+<td><em>a</em> como en <em>casa</em></td>
 </tr>
 
 <tr>
 <td>[ɛ]</td>
 <td>e</td>
 <td>krew</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/krew.ogg"></audio></td>
-<td><em>e</em> as in <em>bed</em></td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/krew.ogg"></audio>
+</td>
+<td>parecida a la <em>e</em> española, pero algo más abierta</td>
 </tr>
 
 <tr>
 <td>[i]</td>
 <td>i</td>
 <td>i</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/i.ogg"></audio></td>
-<td><em>ee</em> as in <em>see</em>, but short</td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/i.ogg"></audio>
+</td>
+<td><em>i</em> como en <em>vino</em></td>
 </tr>
 
 <tr>
 <td>[ɔ]</td>
 <td>o</td>
 <td>oko</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/oko.ogg"></audio></td>
-<td>roughly the <em>o</em> in British English <em>not</em></td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/oko.ogg"></audio>
+</td>
+<td>parecida a la <em>o</em> española, pero más abierta</td>
 </tr>
 
 <tr>
 <td>[u]</td>
 <td>ó, u</td>
 <td>mówić, ku</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/mowic.ogg"></audio>
-<audio controls preload="none" src="/polish-db/assets/audio/sounds/ku.ogg"></audio></td>
-<td><em>oo</em> as in <em>food</em>, but short</td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/mowic.ogg"></audio>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/ku.ogg"></audio>
+</td>
+<td><em>u</em> como en <em>tú</em>, pero corta</td>
 </tr>
 
 <tr>
 <td>[ɨ]</td>
 <td>y</td>
 <td>syn</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/syn.ogg"></audio></td>
-<td>No exact English equivalent. It is pronounced farther back than <em>i</em>, with the lips unrounded.</td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/syn.ogg"></audio>
+</td>
+<td><em>La y polaca no tiene un equivalente exacto en español. Se parece a una i pronunciada con la lengua algo más atrás y de forma más relajada.</em></td>
 </tr>
 
 <tr>
 <td>[ɔ̃]</td>
 <td>ą</td>
 <td>mąż</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/maz.ogg"></audio></td>
-<td>No direct English equivalent: a nasalized <em>o</em></td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/maz.ogg"></audio>
+</td>
+<td><em>o nasal; no tiene un equivalente exacto en español</em></td>
 </tr>
 
 <tr>
 <td>[ɛ̃]</td>
 <td>ę</td>
 <td>język</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/jezyk.ogg"></audio></td>
-<td>No direct English equivalent: a nasalized <em>e</em></td>
+<td>
+<audio controls preload="none" src="/polish-db/assets/audio/sounds/jezyk.ogg"></audio>
+</td>
+<td><em>e nasal; no tiene un equivalente exacto en español</em></td>
 </tr>
 
 </tbody>
 </table>
 
-When spelling a word aloud, the letters **a**, **e**, **i**, and **o** are simply named after their respective sounds.
+Al deletrear una palabra, las letras **a**, **e**, **i** y **o** se nombran simplemente por su sonido.
 
-However, both **ó** and **u** are pronounced **[u]**. To distinguish them, they are called:
+En cambio, las letras **ó** y **u** se pronuncian ambas **[u]**. Para distinguirlas se utilizan los nombres:
 
-- **ó**: **u zamknięte** ("closed u")
-- **u**: **u otwarte** ("open u")
+- **ó**: **u zamknięte** («u cerrada»)
+- **u**: **u otwarte** («u abierta»)
 
-Other names for **ó** are also commonly used:
+Otros nombres habituales de **ó** son:
 
-- **o kreskowane** ("crossed o")
-- **o z kreską** ("o with a stroke")
+- **o kreskowane** («o con raya»)
+- **o z kreską** («o con una raya»)
 
-The choice between **ó** and **u** is largely **etymological** (based on the historical development of the word). As a result, confusing these two letters is one of the most common spelling mistakes in Polish.
+La elección entre **ó** y **u** es principalmente **etimológica** (depende de la historia de la palabra). Por eso es una de las fuentes más frecuentes de errores ortográficos incluso entre hablantes nativos de polaco.
 
-The letter **y** is called **igrek** [ˈigrɛk] (borrowed from the French *i grec*). Among all Polish vowels, **y is the only one that can never appear at the beginning of a word**.
+La letra **y** se llama **igrek** [ˈigrɛk] (del francés *i grec*). Entre las vocales polacas, **y es la única que nunca puede aparecer al principio de una palabra**.
 
-### The consonants and the letter **i**
+### Las consonantes y la letra **i**
 
-In Polish, the letter **i** placed after a consonant **palatalizes** it (makes it “soft”).
+En polaco, la letra **i** **palataliza** (suaviza) la consonante que la precede.
 
-When a vowel follows **i**, the **i** serves only to palatalize the consonant.
+Cuando después de **i** viene otra vocal, en ciertos casos la **i** sirve únicamente para indicar la palatalización de la consonante.
 
-**i** before a vowel:
+Cuando **i** aparece delante de otra vocal:
 
-- after the letters **c, s, z, dz** and **n**, it is **not pronounced**.
-- after other consonants, it is generally pronounced like **[j]**.
+- después de **c, s, z, dz** y **n**, **no se pronuncia como una vocal independiente**.
+- después de otras consonantes suele oírse una transición parecida a **[j]**.
 
-Thus, the palatal consonants **ć, ś, ź, dź** and **ń** are written:
+Por eso las consonantes palatales **ć, ś, ź, dź** y **ń** se escriben de la siguiente manera:
 
-- **ć, ś, ź, dź, ń** before a consonant or at the end of a word;
-- **ci, si, zi, dzi, ni** before a vowel.
+- **ć, ś, ź, dź, ń** delante de una consonante o al final de palabra;
+- **ci, si, zi, dzi, ni** delante de una vocal.
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>Letters</th>
+<th>Letras</th>
 <th>IPA</th>
-<th>Written example</th>
-<th>Audio example</th>
-<th>Notes</th>
+<th>Ejemplo escrito</th>
+<th>Ejemplo de audio</th>
+<th>Observaciones</th>
 </tr>
 </thead>
 
@@ -229,7 +243,7 @@ Thus, the palatal consonants **ć, ś, ź, dź** and **ń** are written:
 <td>[ʥ]</td>
 <td>dziad</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dziad.ogg"></audio></td>
-<td> equivalent to dź  </td>
+<td> equivale fonéticamente a dź </td>
 </tr>
 
 <tr>
@@ -245,7 +259,7 @@ Thus, the palatal consonants **ć, ś, ź, dź** and **ń** are written:
 <td>[ʨ]</td>
 <td>ciasto</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/ciasto.ogg"></audio></td>
-<td>equivalent to ć </td>
+<td>equivale fonéticamente a ć </td>
 </tr>
 
 <tr>
@@ -253,7 +267,7 @@ Thus, the palatal consonants **ć, ś, ź, dź** and **ń** are written:
 <td>[ʑ]</td>
 <td>zielony</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zielony.ogg"></audio></td>
-<td>equivalent to ź </td>
+<td>equivale fonéticamente a ź </td>
 </tr>
 
 <tr>
@@ -261,7 +275,7 @@ Thus, the palatal consonants **ć, ś, ź, dź** and **ń** are written:
 <td>[ɕ]</td>
 <td>siarka</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/siarka.ogg"></audio></td>
-<td>equivalent to ś </td>
+<td>equivale fonéticamente a ś </td>
 </tr>
 
 <tr>
@@ -293,36 +307,36 @@ Thus, the palatal consonants **ć, ś, ź, dź** and **ń** are written:
 <td>[ɲ]</td>
 <td>kuchnia</td>
 <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kuchnia.ogg"></audio></td>
-<td>equivalent to ń </td>
+<td>equivale fonéticamente a ń </td>
 </tr>
 
 <tr>
 <td>ria</td>
 <td>[rʲ]</td>
 <td>historia</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/historia.ogg"></audio></td>
+<td></td>
 <td></td>
 </tr>
 
 </tbody>
 </table>
 
-Note that soft consonants can never precede **y**, and hard consonants almost never precede **i**. (Exceptions: loanwords, for example dżinsy [ˈʤinsɨ] = jeans)
+Ten en cuenta que las consonantes blandas nunca pueden aparecer delante de **y** y que las consonantes duras casi nunca aparecen delante de **i**. (Hay excepciones en préstamos, por ejemplo dżinsy [ˈʤinsɨ] = jeans.)
 
-### Nasal vowels
+### Vocales nasales
 
-The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą** is a **nasal o**. Their pronunciation depends heavily on the consonants that follow them.
+Las letras **ę** y **ą** son vocales nasales: **ę** es una **e nasal** y **ą** una **o nasal**. Su pronunciación depende mucho de las consonantes que las siguen.
 
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>Letter</th>
-<th>Following consonant</th>
-<th>Written example</th>
+<th>Letra</th>
+<th>Consonante siguiente</th>
+<th>Ejemplo escrito</th>
 <th>IPA</th>
-<th>Audio example</th>
-<th>English equivalent</th>
+<th>Ejemplo de audio</th>
+<th>Equivalente aproximado en español</th>
 </tr>
 </thead>
 
@@ -330,11 +344,11 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
 
 <tr>
     <td  rowspan="5">ą</td>
-    <td>f, w, h, ch, s, z, sz, ż, rz, ś, ź, end of word</td>
+    <td>f, w, h, ch, s, z, sz, ż, rz, ś, ź, final de palabra</td>
     <td>mąż</td>
     <td>[ɔ̃]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/maz.ogg"></audio></td>
-    <td>No exact English equivalent; a nasalized o, similar to French on</td>
+    <td>o nasal; no tiene un equivalente exacto en español</td>
 </tr>
 
 <tr>
@@ -342,7 +356,7 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>skąpiec</td>
     <td>[ɔm]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/skapiec.ogg"></audio></td>
-    <td> like om in Polish pompka </td>
+    <td>como una secuencia <em>om</em></td>
 </tr>
 
 <tr>
@@ -350,7 +364,7 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>pociąg</td>
     <td>[ɔŋ]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/pociag.ogg"></audio></td>
-    <td> like on in Polish biedronka </td>
+    <td>como una <em>o</em> seguida del sonido nasal [ŋ], parecido a la <em>n</em> de <em>banco</em></td>
 </tr>
 
 <tr>
@@ -358,7 +372,7 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>piątek</td>
     <td>[ɔn]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/piatek.ogg"></audio></td>
-    <td> on in Polish konto</td>
+    <td>como una secuencia <em>on</em></td>
 </tr>
 
 <tr>
@@ -366,7 +380,7 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>bądź</td>
     <td>[ɔɲ]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/badz.ogg"></audio></td>
-    <td> oń in Polish koń</td>
+    <td>como una <em>o</em> seguida de un sonido parecido a la <em>ñ</em> española</td>
 </tr>
 
 <tr>
@@ -375,7 +389,7 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>język</td>
     <td>[ɛ̃]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/jezyk.ogg"></audio></td>
-    <td></td>
+    <td>e nasal; no tiene un equivalente exacto en español</td>
 </tr>
 
 <tr>
@@ -383,7 +397,7 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>gęba</td>
     <td>[ɛm]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/geba.ogg"></audio></td>
-    <td> like em in Polish zemsta </td>
+    <td>como una secuencia <em>em</em></td>
 </tr>
 
 <tr>
@@ -391,7 +405,7 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>dźwięk</td>
     <td>[ɛŋ]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwiek.ogg"></audio></td>
-    <td> like en in Polish piosenka </td>
+    <td>como una <em>e</em> seguida del sonido nasal [ŋ], parecido a la <em>n</em> de <em>banco</em></td>
 </tr>
 
 <tr>
@@ -399,7 +413,7 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>wędrować</td>
     <td>[ɛn]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/wedrowac.ogg"></audio></td>
-    <td> en in Polish ten</td>
+    <td>como una secuencia <em>en</em></td>
 </tr>
 
 <tr>
@@ -407,16 +421,16 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
     <td>wszędzie</td>
     <td>[ɛɲ]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/wszedzie.ogg"></audio></td>
-    <td>eń in Polish pień</td>
+    <td>como una <em>e</em> seguida de un sonido parecido a la <em>ñ</em> española</td>
 </tr>
 
 <tr>
-    <td>end of word</td>
+    <td>final de palabra</td>
     <td>imię</td>
     <td>[ɛ]</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/imie.ogg"></audio></td>
 
-    <td> a regular Polish e </td>
+    <td>como una <em>e</em> polaca normal, ligeramente más abierta que la <em>e</em> española</td>
 </tr>
 
 
@@ -425,19 +439,19 @@ The letters **ę** and **ą** are nasal vowels: **ę** is a **nasal e** and **ą
 </tbody>
 </table>
 
-### “Simple” consonants
+### Consonantes «simples»
 
-We first present the consonants that also exist in English. At the end of a word or before a voiceless consonant, voiced consonants that have a voiceless counterpart become their voiceless equivalents.
-<!-- (yellow: voiced; green: voiceless; pink: semivowel; grey: other) -->
+Primero se presentan las consonantes que suelen resultar más sencillas para los hispanohablantes. Al final de palabra o delante de una consonante sorda, las consonantes sonoras que tienen un equivalente sordo se ensordecen.
+<!-- (amarillo: sonora; verde: sorda; rosa: semivocal; gris: otra) -->
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>Letter</th>
-<th>Written example</th>
-<th>Audio example</th>
+<th>Letra</th>
+<th>Ejemplo escrito</th>
+<th>Ejemplo de audio</th>
 <th>IPA</th>
-<th>English equivalent</th>
+<th>Equivalente aproximado en español</th>
 </tr>
 </thead>
 
@@ -448,20 +462,21 @@ We first present the consonants that also exist in English. At the end of a word
     <td><strong>b</strong>ardzo</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/bardzo.ogg"></audio></td>
     <td>[b]</td>
-    <td>b in bed, b is never very plosive, the lips only touch</td>
+    <td><em>b</em> como en <em>barco</em>, pronunciada de forma oclusiva</td>
  </tr>
 
 <tr> 
     <td>chle<strong>b</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/chleb.ogg"></audio></td>
     <td rowspan="2">[p]</td>
-    <td rowspan="2">p in pen, p is never very plosive, the lips only touch</td>
+    <td rowspan="2"><em>p</em> como en <em>papa</em></td>
 </tr>
 
 <tr>
     <td> p </td>
     <td><strong>p</strong>an</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/pan.ogg"></audio></td>
+    
  </tr>
 
 <tr>
@@ -469,35 +484,38 @@ We first present the consonants that also exist in English. At the end of a word
     <td><strong>d</strong>om</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dom.ogg"></audio></td>
     <td>[d]</td>
-    <td>d in dog, unlike in English, though, the tongue touches the teeth</td>
+    <td><em>d</em> como al principio de <em>dar</em>, pronunciada claramente</td>
  </tr>
 
 <tr>   
     <td>ko<strong>d</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kod.ogg"></audio></td>
     <td rowspan="2"> [t]</td>
-    <td rowspan="2">t in top, unlike in English, though, the toungue touches the teeth </td>
+    <td rowspan="2"><em>t</em> parecida a la <em>t</em> española, pero algo más alveolar</td>
 </tr>
 
 <tr>
     <td> t </td>
    <td> <strong>t</strong>ak </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/tak.ogg"></audio></td>
+    
  </tr>
 
 <tr>
     <td  rowspan="2">g</td>
+    
     <td><strong>g</strong>óra</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/gora.ogg"></audio></td>
     <td>[g]</td>
-    <td>g in go</td>
+    <td><em>g</em> como en <em>gato</em></td>
  </tr>
 
 <tr>   
+    
     <td>katalo<strong>g</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/katalog.ogg"></audio></td>
     <td rowspan="2">[k]</td>
-    <td rowspan="2">k in key</td>
+    <td rowspan="2"><em>c</em> como en <em>casa</em></td>
 
 </tr>
 
@@ -505,6 +523,7 @@ We first present the consonants that also exist in English. At the end of a word
     <td> k </td>
     <td> <strong>k</strong>od </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kod.ogg"></audio></td>
+   
  </tr>
 
 <tr>
@@ -512,14 +531,14 @@ We first present the consonants that also exist in English. At the end of a word
     <td><strong>w</strong>aga</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/waga.ogg"></audio></td>
     <td>[v]</td>
-    <td>v in very</td>
+    <td>sonido [v] labiodental; no es la <em>b/v</em> habitual del español</td>
  </tr>
 
 <tr>   
     <td>sta<strong>w</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/staw.ogg"></audio></td>
     <td rowspan="2">[f]</td>
-    <td rowspan="2">f in fish</td>
+    <td rowspan="2"><em>f</em> como en <em>foto</em></td>
 
 </tr>
 
@@ -527,6 +546,7 @@ We first present the consonants that also exist in English. At the end of a word
     <td> f </td>
     <td> <strong>f</strong>ala </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/fala.ogg"></audio></td>
+   
  </tr>
 
  <tr>
@@ -534,14 +554,14 @@ We first present the consonants that also exist in English. At the end of a word
     <td><strong>z</strong>a</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/za.ogg"></audio></td>
     <td>[z]</td>
-    <td>z in zoo</td>
+    <td>equivalente sonoro de la s polaca (mira debajo); no tiene un equivalente exacto en el español estándar, como <em>zebra</em> en inglés</td>
  </tr>
 
 <tr>   
     <td>ra<strong>z</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/raz.ogg"></audio></td>
     <td rowspan="2">[s]</td>
-    <td rowspan="2">s in see</td>
+    <td rowspan="2"> una s clara y frontal, como la que se oye normalmente en gran parte de América Latina.</td>
 
 </tr>
 
@@ -549,6 +569,7 @@ We first present the consonants that also exist in English. At the end of a word
     <td> s </td>
     <td> <strong>s</strong>am </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/sam.ogg"></audio></td>
+   
  </tr>
 
 <tr>
@@ -556,28 +577,28 @@ We first present the consonants that also exist in English. At the end of a word
     <td><strong>j</strong>ajo</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/jajo.ogg"></audio></td>
     <td>[j]</td>
-    <td>y in yes </td>
+    <td>como la <em>y</em> de <em>yeso</em></td>
  </tr>
  <tr>
     <td> l </td>
     <td><strong>l</strong>ato</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/lato.ogg"></audio></td>
     <td>[l]</td>
-    <td>a clear/light l, with the tongue tip just behind the upper teeth and no raising of the back of the tongue</td>
+    <td><em>l</em> como en <em>lago</em></td>
  </tr>
  <tr>
     <td>m</td>
     <td><strong>m</strong>oment</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/moment.ogg"></audio></td>
     <td>[m]</td>
-    <td>m in man</td>
+    <td><em>m</em> como en <em>mano</em></td>
  </tr>
  <tr>
     <td>n</td>
     <td><strong>n</strong>oga</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/noga.ogg"></audio></td>
     <td>[n]</td>
-    <td>n in no</td>
+    <td><em>n</em> como en <em>nada</em></td>
  </tr>
 
   <tr>
@@ -585,7 +606,7 @@ We first present the consonants that also exist in English. At the end of a word
     <td>ko<strong>ń</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/kon.ogg"></audio></td>
     <td>[ɲ]</td>
-    <td>similar to ny in canyon</td>
+    <td>como la <em>ñ</em> española en <em>niño</em></td>
  </tr>
 
  <tr>
@@ -593,25 +614,25 @@ We first present the consonants that also exist in English. At the end of a word
     <td><strong>ł</strong>uk</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/luk.ogg"></audio></td>
     <td>[w]</td>
-    <td>w in water</td>
+    <td>como la <em>u</em> de <em>cuatro</em></td>
 
  </tr>
 
  </tbody>
 </table>
 
-### Consonants with no exact equivalent in English
+### Otras consonantes polacas y sibilantes
 
-We now present consonants that do not have an exact equivalent in English. Here too, at the end of a word or before a voiceless consonant, voiced consonants that have a voiceless counterpart become their voiceless equivalents.
+A continuación aparecen otras consonantes polacas, entre ellas varias sibilantes que no existen en español. También aquí los sonidos sonoros se ensordecen al final de palabra o delante de una consonante sorda cuando existe un equivalente sordo.
 
 <table class="pronunciation">
 <thead>
 <tr>
-<th>Letter</th>
-<th>Written example</th>
-<th>Audio example</th>
+<th>Letra</th>
+<th>Ejemplo escrito</th>
+<th>Ejemplo de audio</th>
 <th>IPA</th>
-<th>Notes</th>
+<th>Observaciones</th>
 </tr>
 </thead>
 
@@ -622,20 +643,21 @@ We now present consonants that do not have an exact equivalent in English. Here 
     <td><strong>dz</strong>won</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwon.ogg"></audio></td>
     <td>[dz]</td>
-    <td>dz is close to ds in the English words adze or kids, but pronounced as a single movement.</td>
+    <td><strong>dz</strong> se pronuncia como una secuencia muy unida de <em>d</em> y <em>z</em>, producida en un solo movimiento.</td>
  </tr>
 
 <tr> 
     <td>ksią<strong>dz</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/ksiadz.ogg"></audio></td>
     <td rowspan="2">[ts]</td>
-    <td rowspan="2" >c is close to ts in tsunami or to the German pronunciation of Zeit. It is the voiceless counterpart of dz.</td>
+    <td rowspan="2" ><strong>c</strong> se pronuncia [ts], como en <em>tsunami</em>. Es el equivalente sordo de <strong>dz</strong>.</td>
 </tr>
 
 <tr>
     <td> c </td>
     <td><strong>c</strong>ena</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/cena.ogg"></audio></td>
+    
  </tr>
 
 <tr>
@@ -643,20 +665,21 @@ We now present consonants that do not have an exact equivalent in English. Here 
     <td><strong>ż</strong>aba, <strong>rz</strong>eka</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zaba.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/rzeka.ogg"></audio></td>
     <td>[ʒ]</td>
-    <td>similar to s in English vision, but articulated farther back. The sound is darker and “thicker.” </td>
+    <td><strong>ż</strong> y <strong>rz</strong> no tienen un equivalente exacto en español. Se parecen al sonido de la <em>j</em> francesa o inglesa en palabras como <em>journal</em>, pero se articulan más atrás y con un sonido más duro.</td>
  </tr>
 
 <tr>   
     <td>masa<strong>ż</strong>, kalenda<strong>rz</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/masaz.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/kalendarz.ogg"></audio></td>
     <td rowspan="2"> [ʂ]</td>
-    <td rowspan="2">similar to sh in English ship, but harder and articulated farther back in the mouth </td>
+    <td rowspan="2">parecido al sonido inglés <em>sh</em>, pero más duro y articulado con la lengua algo más atrás</td>
 </tr>
 
 <tr>
     <td> sz </td>
    <td> <strong>sz</strong>ef </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/szef.ogg"></audio></td>
+    
  </tr>
 
 <tr>
@@ -664,14 +687,14 @@ We now present consonants that do not have an exact equivalent in English. Here 
     <td><strong>dż</strong>em</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzem.ogg"></audio></td>
     <td>[d͡ʒ]</td>
-    <td>similar to j in English jam, but articulated slightly farther back </td>
+    <td>parecido al sonido inglés <em>j</em> de <em>jungle</em>, pero articulado todavia màs suave</td>
  </tr>
  <tr>
     <td> cz </td>
     <td><strong>cz</strong>as</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/czas.ogg"></audio></td>
     <td>[t͡ʂ]]</td>
-    <td> similar to ch in English chair, but with the tongue slightly farther back in the mouth </td>
+    <td>parecido a la <em>ch</em> española, pero más duro y con la lengua algo más atrás</td>
  </tr>
 
 <tr>
@@ -679,20 +702,21 @@ We now present consonants that do not have an exact equivalent in English. Here 
     <td><strong>ź</strong>le</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/zle.ogg"></audio></td>
     <td>[ʑ]</td>
-    <td>ź has no exact English equivalent; it is similar to s in vision, but softer and pronounced farther forward in the mouth.</td>
+    <td><strong>ź</strong> no tiene un equivalente exacto en español. Es un sonido suave y sonoro, articulado más adelante en la boca que <strong>ż</strong>.</td>
  </tr>
 
 <tr> 
     <td>znale<strong>ź</strong>ć</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/znalezc.ogg"></audio></td>
     <td rowspan="2">[ɕ]</td>
-    <td rowspan="2"> ś is the voiceless counterpart of ź. It is similar to sh in English sheep, but softer and pronounced farther forward.</td>
+    <td rowspan="2"><strong>ś</strong> es el equivalente sordo de <strong>ź</strong>. No existe en español; es un sonido muy suave y palatal, producido con la lengua cerca de la parte delantera del paladar.</td>
 </tr>
 
 <tr>
     <td> ś </td>
     <td><strong>ś</strong>wiat</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/swiat.ogg"></audio></td>
+    
  </tr>
 
 
@@ -701,14 +725,14 @@ We now present consonants that do not have an exact equivalent in English. Here 
     <td><strong>dź</strong>wig</td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/dzwig.ogg"></audio></td>
     <td>[ʥ]</td>
-    <td>dź is similar to j in English jeans, but softer and pronounced farther forward.</td>
+    <td><strong>dź</strong> no tiene un equivalente exacto en español; es un sonido suave y sonoro, parecido a una combinación muy palatalizada de <strong>d</strong> y un sonido tipo <em>y</em>.</td>
  </tr>
 
 <tr>   
     <td>mie<strong>dź</strong></td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/miedz.ogg"></audio></td>
     <td rowspan="2">[ʨ]</td>
-    <td rowspan="2"> ć is the voiceless counterpart of dź. It is similar to ch in English cheese, but softer and pronounced farther forward in the mouth.</td>
+    <td rowspan="2"><strong>ć</strong> es el equivalente sordo de <strong>dź</strong>. Se parece a una <em>ch</em> española mucho más suave y pronunciada más adelante en la boca.</td>
 
 </tr>
 
@@ -716,6 +740,7 @@ We now present consonants that do not have an exact equivalent in English. Here 
     <td> ć </td>
     <td> <strong>ć</strong>ma </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/cma.ogg"></audio></td>
+   
  </tr>
 
 
@@ -724,14 +749,16 @@ We now present consonants that do not have an exact equivalent in English. Here 
     <td><strong>ch</strong>arakter, <strong>h</strong>otel </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/charakter.ogg"></audio><audio controls preload="none" src="/polish-db/assets/audio/sounds/hotel.ogg"></audio></td>
     <td>[x]</td>
-    <td> h and ch are pronounced the same way. English has no exact equivalent; the sound is similar to ch in Scottish loch or German Bach. It is produced as a stream of air at the back of the mouth, without vibrating the throat. </tr>
+    <td><strong>h</strong> y <strong>ch</strong> se pronuncian igual, de forma muy parecida a la <em>j</em> española en <em>jamón</em> en su versión latinoamericana sin sonorizar.</td></tr>
 
  <tr>
     <td> r </td>
     <td><strong>r</strong>dza </td>
     <td><audio controls preload="none" src="/polish-db/assets/audio/sounds/rdza.ogg"></audio>
     <td>[r]</td>
-    <td> r is pronounced by vibrating the tip of the tongue just behind the upper teeth</tr>
+    <td><strong>r</strong> se pronuncia con vibración de la punta de la lengua detrás de los dientes superiores, como la <em>r</em> española de <em>pero</em>.</td></tr>
+ 
+ 
 
  </tbody>
 </table>
@@ -746,5 +773,6 @@ We now present consonants that do not have an exact equivalent in English. Here 
 
 
 <p style="font-size:0.7em; opacity:0.6; text-align:center;">
-Source: Wikibooks – <a href="https://de.wikibooks.org/wiki/Polnisch/_Kurs/_Phonetik">Polnisch/Kurs/Phonetik</a> (translated and adapted).
+Fuente: Wikibooks – <a href="https://de.wikibooks.org/wiki/Polnisch/_Kurs/_Phonetik">Polnisch/Kurs/Phonetik</a> (traducido y adaptado).
 </p>
+

@@ -23,6 +23,13 @@ nav:
 
           - Em português:
               - Fonetica polonesa: resources/portuguese/fonetica.md
+
+          - Auf deutsch:
+              - Polnische Phonetik: resources/german/phonetik.md
+          
+          - En español:
+              - Fonética polaca: resources/spanish/fonetica_es.md
+
   - About: about.md
 
   - Contact: contact.md

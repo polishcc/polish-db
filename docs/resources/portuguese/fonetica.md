@@ -313,8 +313,8 @@ Assim, as consoantes palatais **ć, ś, ź, dź** e **ń** escrevem-se:
 <tr>
 <td>ria</td>
 <td>[rʲ]</td>
-<td>abituria</td>
-<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/abituria.ogg"></audio></td>
+<td>historia</td>
+<td><audio controls preload="none" src="/polish-db/assets/audio/sounds/historia.ogg"></audio></td>
 <td></td>
 </tr>
 

@@ -42,6 +42,7 @@ Currently available:
 - [Polish phonetics in English](resources/english/phonetics.md)
 - [Phonétique polonaise en français](resources/french/phonetique.md)
 - [Fonética polonesa em português](resources/portuguese/fonetica.md)
+- [Polnische Phonetik auf deutsch](resources/german/phonetik.md)
 
 ---
 
