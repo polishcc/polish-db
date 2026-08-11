@@ -2,38 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://polishcc.github.io/polish-db/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
     <url>
          <loc>https://polishcc.github.io/polish-db/about/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
     <url>
          <loc>https://polishcc.github.io/polish-db/coaching/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
     <url>
          <loc>https://polishcc.github.io/polish-db/contact/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
     <url>
          <loc>https://polishcc.github.io/polish-db/crash-course/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
     <url>
          <loc>https://polishcc.github.io/polish-db/resources/resources/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
     <url>
          <loc>https://polishcc.github.io/polish-db/resources/english/phonetics/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
     </url>
     <url>
          <loc>https://polishcc.github.io/polish-db/resources/french/phonetique/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://polishcc.github.io/polish-db/resources/german/phonetik/</loc>
+         <lastmod>2026-08-11</lastmod>
     </url>
     <url>
          <loc>https://polishcc.github.io/polish-db/resources/portuguese/fonetica/</loc>
-         <lastmod>2026-08-10</lastmod>
+         <lastmod>2026-08-11</lastmod>
+    </url>
+    <url>
+         <loc>https://polishcc.github.io/polish-db/resources/spanish/fonetica_es/</loc>
+         <lastmod>2026-08-11</lastmod>
     </url>
 </urlset>
